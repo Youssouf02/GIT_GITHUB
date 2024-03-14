@@ -1,5 +1,3 @@
-Pour créer mon cv sur un site internet vous aurez besoins de figma pour prendre d'exemple puis après nous allons utiliser les différents fichiers pour créer le squelette de la page puis le css pour la forme.
-Mon CV se divisera en 3 parties: 
-. Côté gauche verticalment 
-. En tête
-. Le contenu
+Pour créer un CV en ligne, nous utiliserons Figma comme modèle. Ensuite, nous convertirons la maquette en HTML/CSS pour créer la structure de la page et appliquer le style. Le CV sera divisé en trois parties : le côté gauche (vertical), l'en-tête, et le contenu.
+
+FIGMA : https://www.figma.com/file/jxllppE3mOQ1BoGbfAlfOU/CV?type=design&node-id=0%3A1&mode=design&t=hXKgSFR0OTAfQ5Vn-1
